@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/boese/pinochle_server/issues"
   },
-  "homepage": "https://github.com/boese/pinochle_server#readme"
+  "homepage": "https://github.com/boese/pinochle_server#readme",
+  "dependencies": {
+    "hapi": "^14.2.0"
+  }
 }
