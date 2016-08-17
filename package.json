@@ -1,0 +1,22 @@
+{
+  "name": "pinochle_server",
+  "version": "1.0.0",
+  "description": "A pinochle stand-alone game server with full REST-API allowing for plug-n-play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boese/pinochle_server.git"
+  },
+  "keywords": [
+    "pinochle"
+  ],
+  "author": "Chris Boese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boese/pinochle_server/issues"
+  },
+  "homepage": "https://github.com/boese/pinochle_server#readme"
+}
